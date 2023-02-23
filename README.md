@@ -1,10 +1,10 @@
 # Store Sales - Time Series Forecasting
+# This project is still a work in progress. 
+Please come back soon. 
 
-# Information about this project.
-1. The Store sale project is a time series project that is about predicting the sales in different stores.
+## The goal of this project:
 
+This is a time series project in order to forecast sales from the data of a company called 'Corporación Favorita' which is an Ecuadorian-based grocery retailer. I will be predicting the items sold at different stores.
 
-This project is still a work in progress. 
-Come back soon. 
 ____
 Fiona.
